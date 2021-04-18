@@ -1,2 +1,2 @@
-# K-Means-Cluster
-Predict the Wine Quality by K-mean Cluster
+# Unsupervised Machine Learning 
+ K-mean Cluster,Agglomerative Hierarchical clustering, Dendrogram, PCA 
